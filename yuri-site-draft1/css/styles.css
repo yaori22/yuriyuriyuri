@@ -7,12 +7,12 @@ body {
 
 header {
     
-    background-color: #E6E6E6;
+    background-color: #FFF5EE;
 }
 
 nav {
     
-    background-color: #D9853B;
+    background-color: #FFFAFA;
     padding-bottom: 10px;
     padding-left: 35px;
     padding-top: 10x;
@@ -23,41 +23,112 @@ li {
 }
 
 a:list {
-    color: #FFF;
+    color: #E0FFFF;
     text-decoration: none;
 }
 
 a:visited {
-     color: #0080FF;
+     color: #A9A9A9;
     text-decoration: none;
 }
 
 article {
     
-    background-color: #ECECEA;
+    background-color: #FFF0F5;
 }
 
 h1 {
     
-    background-color: #558C89;
+    background-color: #CD5C5C;
     color: #FFF;
 }
 
 h2 {
     
-    background-color: #558C89;
+    background-color: #F08080;
     color: #FFF;
 }
 
 h3 {
     
-    background-color: #558C89;
+    background-color: #E9967A;
     color: #FFF;
 }
 
+h4 {
+    
+    background-color: #DCDCDC;
+    color: #FFF;
+}
+
+h5 {
+    
+    background-color: #D3D3D3;
+    color: #FFF;
+}
+
+h6 {
+    
+    background-color: #C0C0C0;
+    color: #FFF;
+}
+
+h7 {
+    
+    background-color: #A9A9A9;
+    color: #FFF;
+}
+
+h8 {
+    
+    background-color: #808080;
+    color: #FFF;
+}
+
+h9 {
+    
+    background-color: #696969;
+    color: #FFF;
+}
+
+h10 {
+    
+    background-color: #000000;
+    color: #FFF;
+}
+
+h11 {
+    
+    background-color: #87CEFA;
+    color: #fff;
+}
+
+h12 {
+    
+    background-color: #ADD8E6;
+    color: #fff;
+}
+
+h13 {
+    
+    background-color: #B0E0E6;
+    color: #fff;
+}
+h14 {
+    
+    background-color: #F0FFF0;
+    color: #c0c0c0;
+}
+h15 {
+    
+    background-color: #E6E6FA;
+    color: #A9A9A9;
+}
+
+
 p {
     
-    color: #4C4C4C;
+    color: #696969;
 }
 
 footer {
